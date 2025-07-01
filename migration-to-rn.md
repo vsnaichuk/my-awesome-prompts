@@ -4,17 +4,12 @@
 ```
 Act as Lead Application Architect and expert in React Native development and [...] with deep experience in migrating projects from various platforms. 
 
-
 I need a comprehensive, structured, step-by-step migration plan from an [existing project, framework] to React Native. 
 
-
-I have already initialized a new, blank React Native starter project using the latest version. I will provide its directory structure and package.json
-
-
 <context>
-
-<rn_directory_structure.txt>, <package.json>, <existing_project_code_samples.txt>,  <existing_project_directory_structure.txt>
-
+<existing_project_directory_structure.txt>
+<existing_project_code_samples.txt>,
+...
 ```
 
 - Creating Repository Custom Instructions
