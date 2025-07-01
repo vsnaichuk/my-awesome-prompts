@@ -15,7 +15,8 @@ I need a comprehensive, structured, step-by-step migration plan from an [existin
 - Creating Repository Custom Instructions
 
 ```markdown
-Prompt: Create repository custom instructions for AI agents working on the migration of [ApplicationDescription] from [Framework] to React Native
+Prompt: Create repository custom instructions
+FOR AI agents working on the migration of [AppDescription] from [Framework] to React Native
 ```
 
 - Libraries
@@ -31,7 +32,7 @@ Prompt: Replace [FrameworkLib] with React Native library for [SpecificFeature]
 - Converting Component
 
 ```markdown
-Prompt: Convert to React Native functional component. [Files for context]: <component>, <styles>
+Prompt: Convert to React Native functional component. [context]: <component>, <styles>
 ```
 
 - Creating Custom Reusable Component
@@ -49,7 +50,7 @@ Prompt: Create mock data for the `Screen` component, with interface from `src/mo
 - Fixing Issues
 
 ```markdown
-Prompt: Identify root cause of issue in [ComponentName].tsx [ModuleName].ts and Potential fixes
+Prompt: Identify root cause of issue in [Component].tsx [Module].ts and Potential fixes
 ```
 
 - Fixing Styles
@@ -58,5 +59,5 @@ Prompt: Fix React Native style issue, [describe issue, attach component for cont
 ```
 
 ```markdown
-Prompt: Adapt styles of [Screen].tsx to match screenshot [Fles for context]: <screenshoot.png>
+Prompt: Adapt styles of [Screen].tsx to match screenshot [context]: <screenshoot.png>
 ```
