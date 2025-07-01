@@ -36,32 +36,32 @@ Replace [FrameworkLib] with React Native library for [SpecificFeature]
 - Converting Ionic Component
 
 ```markdown
-Here's [FrameworkComponent] and [Styles]. Convert this to a React Native functional component. [Files for context]: <component>, <styles>
+Convert to React Native functional component. [Files for context]: <component>, <styles>
 ```
 
 - Creating Custom Reusable Component
 
 ```markdown
-Create a Reusable Component using project theme, .... It should: [1. 2. 3.]...
+Create Reusable Component using project theme, .... It should: [1. 2. 3.]...
 ```
 
 - Create mock data
 
 ```markdown
-Create mock data for the `Screen` component, aligning with the interface from `src/models/[ModelName].ts`.
+Create mock data for the `Screen` component, with interface from `src/models/[ModelName].ts`.
 ```
 
 - Fixing Issues
 
 ```markdown
-Identify the root cause of an issue in [ComponentName].tsx [ModuleName].ts and Potential fixes
+Identify root cause of issue in [ComponentName].tsx [ModuleName].ts and Potential fixes
 ```
 
 - Fixing Styles
 ```markdown
-Fix this React Native styling issue, [describe issue, attach component for context]
+Fix React Native style issue, [describe issue, attach component for context]
 ```
 
 ```markdown
-Adapt styles of [Screen].tsx to visually match screenshot [Fles for context]: <screenshoot.png>
+Adapt styles of [Screen].tsx to match screenshot [Fles for context]: <screenshoot.png>
 ```
