@@ -2,7 +2,7 @@
 
 - Migration Plan
 ```
-Act as Lead Application Architect and expert in React Native development and [...] with deep experience in migrating projects from various platforms. 
+Prompt: Act as Lead Application Architect and expert in React Native development and [...] with deep experience in migrating projects from various platforms. 
 
 I need a comprehensive, structured, step-by-step migration plan from an [existing project, framework] to React Native. 
 
@@ -15,48 +15,48 @@ I need a comprehensive, structured, step-by-step migration plan from an [existin
 - Creating Repository Custom Instructions
 
 ```markdown
-Create repository custom instructions for AI agents working on the migration of [ApplicationDescription] from [Framework] to React Native
+Prompt: Create repository custom instructions for AI agents working on the migration of [ApplicationDescription] from [Framework] to React Native
 ```
 
 - Libraries
 
 ```markdown
-Suggest React Native relevant library alternative to [FrameworkLibrary]
+Prompt: Suggest React Native relevant library alternative to [FrameworkLibrary]
 ```
 
 ```markdown
-Replace [FrameworkLib] with React Native library for [SpecificFeature]
+Prompt: Replace [FrameworkLib] with React Native library for [SpecificFeature]
 ```
 
-- Converting Ionic Component
+- Converting Component
 
 ```markdown
-Convert to React Native functional component. [Files for context]: <component>, <styles>
+Prompt: Convert to React Native functional component. [Files for context]: <component>, <styles>
 ```
 
 - Creating Custom Reusable Component
 
 ```markdown
-Create Reusable Component using project theme, .... It should: [1. 2. 3.]...
+Prompt: Create Reusable Component using project theme, .... It should: [1. 2. 3.]...
 ```
 
 - Create mock data
 
 ```markdown
-Create mock data for the `Screen` component, with interface from `src/models/[ModelName].ts`.
+Prompt: Create mock data for the `Screen` component, with interface from `src/models/[ModelName].ts`.
 ```
 
 - Fixing Issues
 
 ```markdown
-Identify root cause of issue in [ComponentName].tsx [ModuleName].ts and Potential fixes
+Prompt: Identify root cause of issue in [ComponentName].tsx [ModuleName].ts and Potential fixes
 ```
 
 - Fixing Styles
 ```markdown
-Fix React Native style issue, [describe issue, attach component for context]
+Prompt: Fix React Native style issue, [describe issue, attach component for context]
 ```
 
 ```markdown
-Adapt styles of [Screen].tsx to match screenshot [Fles for context]: <screenshoot.png>
+Prompt: Adapt styles of [Screen].tsx to match screenshot [Fles for context]: <screenshoot.png>
 ```
