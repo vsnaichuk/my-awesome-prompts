@@ -76,4 +76,6 @@ Prompt: Write comments for: [code snippet]
 ```markdown
 Prompt: Reformat this transcript into paragraphs and sentences, fix the capitalization and make very light edits such as removing ums
 ```
-
+```markdown
+Prompt: Include the names of speakers for each segment
+```
