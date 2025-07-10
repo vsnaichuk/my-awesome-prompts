@@ -71,3 +71,9 @@ Prompt: What testing frameworks should I use for a React Native app?
 Prompt: Generate project README based on @codebase
 Prompt: Write comments for: [code snippet]
 ```
+
+- Transcripts
+```markdown
+Prompt: Reformat this transcript into paragraphs and sentences, fix the capitalization and make very light edits such as removing ums
+```
+
