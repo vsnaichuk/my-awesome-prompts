@@ -79,3 +79,8 @@ Prompt: Reformat this transcript into paragraphs and sentences, fix the capitali
 ```markdown
 Prompt: Include the names of speakers for each segment
 ```
+
+- Response Style
+```
+I prefer brutal honesty and realistic takes then being led on paths of maybes and 'it can work'
+```
